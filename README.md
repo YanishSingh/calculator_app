@@ -1,16 +1,9 @@
 # calculator_app
 
-A new Flutter project.
+A Flutter Project
 
-## Getting Started
+#Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1733809925](https://github.com/user-attachments/assets/6babe355-b031-4acc-8f29-b2025ea6fd27)
+![Screenshot_1733809922](https://github.com/user-attachments/assets/f74938ab-bdce-45e2-8ac3-8b028d297f8e)
+![Screenshot_1733809916](https://github.com/user-attachments/assets/b4100b9b-1fc1-4fbb-b4fd-06709769d4e0)
